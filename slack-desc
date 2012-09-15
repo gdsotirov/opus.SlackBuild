@@ -1,0 +1,24 @@
+opus: Opus (Opus Interactive Audio Codec)
+opus:
+opus: The Opus codec is designed for interactive speech and audio
+opus: transmission over the Internet. It is designed by the IETF Codec
+opus: Working Group and incorporates technology from Skype's SILK codec
+opus: and Xiph.Org's CELT codec.
+opus: It is intended to suit a wide range of interactive audio applications,
+opus: including Voice over IP, videoconferencing, in-game chat, and even
+opus: remote live music performances. It can scale from low bit-rate
+opus: narrowband speech to very high quality stereo music. The current
+opus: features are:
+opus:   * Bit-rates from 6 kb/s 510 kb/s
+opus:   * Sampling rates from 8 to 48 kHz
+opus:   * Frame sizes from 2.5 ms to 60 ms
+opus:   * Support for both constant bit-rate (CBR) and variable bit-rate (VBR)
+opus:   * Audio bandwidth from narrowband to full-band
+opus:   * Support for speech and music
+opus:   * Support for mono and stereo
+opus:   * Support for up to 255 channels (multistream frames)
+opus:   * Dynamically adjustable bitrate, audio bandwidth, and frame size
+opus:   * Good loss robustness and packet loss concealment (PLC)
+opus:   * Floating point and fixed-point implementation
+opus:
+opus: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
