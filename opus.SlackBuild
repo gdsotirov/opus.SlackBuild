@@ -1,7 +1,7 @@
 #!/bin/sh
 #
 # Slackware build script for Opus
-# Copyright (C) 2012-2015 Georgi D. Sotirov <gdsotirov@dir.bg>
+# Copyright (C) 2012-2016 Georgi D. Sotirov <gdsotirov@dir.bg>
 #
 # This program is free software; you can redistribute it and/or
 # modify it under the terms of the GNU General Public License
@@ -17,15 +17,15 @@
 # along with this program; if not, write to the Free Software
 # Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 # 
-# $Id: opus.SlackBuild,v 1.6 2015/05/24 09:45:03 gsotirov Exp $
+# $Id: opus.SlackBuild,v 1.7 2016/08/03 08:40:38 gsotirov Exp $
 #
 
 . ../../slack-package.conf
 
 NAME=opus
-VERSION=1.1
+VERSION=1.1.3
 BUILD=${BUILD:-1}
-ARCH=${ARCH:-i486}
+ARCH=${ARCH:-i586}
 
 TMP=${TMP:-/tmp}
 CWD=${CWD:-`pwd`}
