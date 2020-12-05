@@ -21,4 +21,4 @@ opus:   * Dynamically adjustable bitrate, audio bandwidth, and frame size
 opus:   * Good loss robustness and packet loss concealment (PLC)
 opus:   * Floating point and fixed-point implementation
 opus:
-opus: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
+opus: Packaged by Georgi D. Sotirov <gdsotirov@gmail.com>
